@@ -1,0 +1,7 @@
+[
+ [:app :lt.objs.plugins/load-js "boxcutter_compiled.js"]
+ [:boxcutter.hello :lt.plugins.boxcutter/on-close-destroy]
+ [:workspace.file :lt.plugins.boxcutter/subfile-menu]
+ [:workspace.file :lt.plugins.boxcutter/subfile-copy-path]
+ [:editor :lt.plugins.boxcutter/editor-delete-next-n-chars]
+ ]

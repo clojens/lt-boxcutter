@@ -1,0 +1,7 @@
+{:name "boxcutter"
+ :version "0.1.0"
+ :author "Rob Jentzema"
+ :source "https://github.com/clojens/"
+ :desc "General utility knife used by architects as well as construction workers. Aka Stanley knife, indispensable tool for many.
+ This plugin offers some missing behaviors from LT core which would be useful perhaps."
+ :behaviors "boxcutter.behaviors"}
